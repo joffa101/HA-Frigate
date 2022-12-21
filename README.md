@@ -13,3 +13,6 @@ Tricks:
 
   apt-get install ntfs-3g 
   sudo mount -t ntfs-3g /dev/sdb2 /mnt/ntfs2/
+  
+  **Stop cloud-init**. Create an empty file to prevent the service from starting
+  sudo touch /etc/cloud/cloud-init.disabled

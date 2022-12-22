@@ -16,3 +16,20 @@ Tricks:
   
   **Stop cloud-init**. Create an empty file to prevent the service from starting
   sudo touch /etc/cloud/cloud-init.disabled
+  
+### Install Docker
+
+https://docs.docker.com/engine/install/ubuntu/
+
+  ### Install Portainer (to manage Docker)
+
+  https://docs.portainer.io/start/install/server/docker/linux
+  12 letter password "1 The flag ."
+
+  ### Install Docker Compose
+  
+### Install HA via docker compose
+
+
+
+  

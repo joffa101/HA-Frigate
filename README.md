@@ -52,7 +52,9 @@ Tricks:
 
 
 
-### Install Docker
+### Install Docker & HA
+
+https://www.homeautomationguy.io/blog/home-assistant-tips/installing-docker-home-assistant-and-portainer-on-ubuntu-linux
 
 https://docs.docker.com/engine/install/ubuntu/
 
